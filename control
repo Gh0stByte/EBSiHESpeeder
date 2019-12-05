@@ -1,0 +1,9 @@
+Package: kr.xsf1re.ebsihespeeder
+Name: EBSiHESpeeder
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: Control Speed of EBSi High Education!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
